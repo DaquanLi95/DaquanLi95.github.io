@@ -1,6 +1,6 @@
 ## 基本信息 
 
-* 姓名: 王欣 <a
+* 姓名: 李大权<a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0000-0002-7524-2587"
@@ -10,12 +10,12 @@
       https://orcid.org/0000-0002-7524-2587
     </a>
 * 民族：汉 
-* 出生年月 : 1994.10
-* 身高：172cm 
+* 出生年月 : 1995.09
+* 身高：170cm 
 * 毕业院校：江苏师范大学 
 * 学历 ：硕士研究生
 * 手机：18260712928 
-* 邮箱：<wangxin94xz@outlook.com>
+* 邮箱：<halidaquan@163.com>
 
 
 ## 技能和领域 
