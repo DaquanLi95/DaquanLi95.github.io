@@ -55,12 +55,19 @@
 7. Yan Zhang, Wenyi Liu, Xin Wang and Mirza Ali Shaheer. A novel hierarchical hyper-parameter search algorithm based on greedy strategy for wind turbine fault diagnosis. Expert Systems with Applications. 2022.
 8. Yan Zhang, Wenyi Liu, Xin Wang and Heng Gu. A novel wind turbine fault diagnosis method based on compressed sensing and DTL-CNN. Renewable Energy. 2022.
 
+## 专利列表 
+
+1.李顺才，李大权，等. 一种刀具车削温度变化均值的组合预测模型建立方法[P].中国发明专利：CN2019109533108，已公开，公开号：CN110728049A，公开时间：2020. 01. 24.
+2.李顺才，李大权，等. 一种金属切削多信号的耦合协调分析方法[P]. 中国发明专利：CN202110940949.X，已公开，公开号：CN113671901A，公开时间：2021. 11. 19.
+3.李顺才，胡雨婷，李大权，邵明辉，陈子耀。一种基于多特征融合的铣削声压级监测及预测系统和方法[P]。发明专利，申请号：201911153398.1，授权时间：2021.8.25.（已授权）
+4.李顺才，胡雨婷，李大权，邵明辉，陈子耀，朱亮，邓星。铣削噪声与铣削振动的监测及其相关性分析系统及方法[P]。发明专利，申请号：201910392532.7，授权时间：2021.6.14.（已授权）
+5.李顺才，李松原，陈子耀，李大权，邵明辉。不同磨损刀具车削温度变化与车削振动耦合特性研究方法，申请号：202011238945.9，申请日期,2020.11.09. 
+6.李顺才，李松原，李雨晴，胡雨婷，李大权，邵明辉。不同磨损刀具的车削热与多元影响因子的相关性分析方法。申请号：202011425978.4，申请日期,2020.12.09
+
+
+
 ## 联系方式 
 
-*  QQ: 497566149
-*  微信: 18260712928
-*  知乎: LuciferWang <https://www.zhihu.com/people/devilw-94-10-18>
-*  B 站: HsinXWang <https://space.bilibili.com/13227261>
-*  GitHub: VenomWang <https://github.com/HsinWang94>
-*  Google: Xin Wang <devilw941018@gmail.com>
+*  QQ: 2844345892
+*  微信: 19851606515
 
