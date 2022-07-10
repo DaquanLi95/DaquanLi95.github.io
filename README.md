@@ -7,7 +7,6 @@
      target="orcid.widget"
      rel="me noopener noreferrer"
      style="vertical-align: top">
-      https://orcid.org/0000-0002-7524-2587
     </a>
 * 民族：汉 
 * 出生年月 : 1995.09
