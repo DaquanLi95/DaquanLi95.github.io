@@ -23,50 +23,39 @@
 
 ## 教育及工作经历 
 
-* 2018.9--2021.6 江苏师范大学机电工程学院 机械工程
-* 2014.9--2018.6 江苏师范大学科文学院机电工程系 电气工程及其自动化
-* 2018.9--2019.1 文都教育兼职代课老师
-* 2015.1--2018.12  海云集团GPU销售咨询
-* 2018.4--2018.5 昆山德鹏电子实习一周
-* 2020.9--2020.12 江苏师范大学机电工程学院助教
-* 2019.9--2020.6 机电工程学院院研究生会主席
-* 2021.6--2022.3 WeirESCO(Xuzhou) Wearparts 设备工程师
-* 2022.3--至今  苏州畅恒通信科技有限公司 算法工程师
+* 2014.9-2018.6 南京工业大学浦江学院 机械工程专业
+* 2018.9-2021.6 江苏师范大学 机械工程专业
+* 2022.1-2022.4 丰县金融监督管理局工作人员
+* 2022.5-至今  江苏瀚雅医疗科技有限公司
+
 
 ## 证书列表 
 
-* 2014.11 CRE科技协会多媒体制作大赛 一等奖
-* 2015-2016 三等优秀学生奖学金
-* 2015.3 计算机等级考试 二级 VB 通过
-* 2016.6 英语六级考试 477 通过
-* 2015.5 普通话测试 二级甲等 通过
-* 2015.12 英语四级考试 461 通过
-* 2017.3  维修电工三级 通过
+* 第八届淮海科学技术奖 一等奖
+* 2018-2020 研究生学业二等奖学金
+* 2014-2015 三等优秀学生奖学金
+* 2017.12 英语四级
+* 2019  优秀共青团员
 
 
 ## 论文列表 
 
-1. Wang Xin. Research on wind turbine gearbox fault diagnosis with deep transfer learning method. Zenodo. 2022.
-2. X.Wang, W.Y.Liu, Y.Zhang and H.Gu. A novel wind turbine fault diagnosis method based on generator current analysis. Journal of Vibroengineering. 2020.
-3. X.Wang，W.Liu and M.Shan. Fault Diagnosis Analysis of Wind Turbine Gear Based on Transfer Function Model. 2019 Prognostics and System Health Management Conference (PHM-Qingdao). 2019.
-4. Mengchen Shan, Wenyi Liu and Xin Wang. A novel Robot Joint Bearing fault diagnosis method based on VMD in BP neural network. 2019 16th International Conference on Ubiquitous Robots UR. 2019.
-5. He Ren, Wenyi Liu, Mengchen Shan and Xin Wang. A new wind turbine health condition monitoring method based on VMD-MPE and feature-based transfer learning. Measurement. 2019.
-6. He Ren, Wenyi Liu, Mengchen Shan, Xin Wang and Zhengfeng Wang. A novel wind turbine health condition monitoring method based on composite variational mode entropy and weighted distribution adaptation. Renewable Energy. 2021.
-7. Yan Zhang, Wenyi Liu, Xin Wang and Mirza Ali Shaheer. A novel hierarchical hyper-parameter search algorithm based on greedy strategy for wind turbine fault diagnosis. Expert Systems with Applications. 2022.
-8. Yan Zhang, Wenyi Liu, Xin Wang and Heng Gu. A novel wind turbine fault diagnosis method based on compressed sensing and DTL-CNN. Renewable Energy. 2022.
-9. 
+1. 李大权，李顺才，等. 粒子群算法优化的车削温度组合预测模型研究[J].应用力学学报, 2020, 37(06):2354-2361. (B类核心, CSCD).
+2. 李顺才,李大权*, 等. 煤样抗压强度与弹性模量的多元回归模型[J].湖南科技大学学报(自然科学版),2020,35(01):1-9. (中文核心, SCD).
+3. Daquan Li, Shuncai Li, et al. Research on the Relationship Between Turning Temperature Rising and Turning Vibration Based on Particle Swarm Optimization. Transactions of the Canadian Society for Mechanical Engineering, 2021, 45(2):273-286.
+4. Shuncai Li, Daquan Li*, Nong Zhang. Multivariate Prediction Model of Strength and Acoustic Emission Energy Considering Parameter Correlation of coal or rock[J].  Advances in Materials Science and Engineering, 2020:e8429652 .
+5. Yuting Hu, Shuncai Li, Daquan Li, et al. Yield criteria and strength conditions considering comprehensive mechanical and acoustic emission characteristics of tension–torsion composite deformation of nylon materials[J]. Composite Structures, 2020, e112278.
+
+
 
 ## 专利列表 
 
 1. 李顺才，李大权，等. 一种刀具车削温度变化均值的组合预测模型建立方法[P].中国发明专利：CN2019109533108，已公开，公开号：CN110728049A，公开时间：2020. 01. 24.
-3. 李顺才，李大权，等. 一种金属切削多信号的耦合协调分析方法[P]. 中国发明专利：CN202110940949.X，已公开，公开号：CN113671901A，公开时间：2021. 11. 19.
-4. 李顺才，胡雨婷，李大权，邵明辉，陈子耀。一种基于多特征融合的铣削声压级监测及预测系统和方法[P]。发明专利，申请号：201911153398.1，授权时间：2021.8.25.（已授权）
-5. 李顺才，胡雨婷，李大权，邵明辉，陈子耀，朱亮，邓星。铣削噪声与铣削振动的监测及其相关性分析系统及方法[P]。发明专利，申请号：201910392532.7，授权时间：2021.6.14.（已授权）
-6. 李顺才，李松原，陈子耀，李大权，邵明辉。不同磨损刀具车削温度变化与车削振动耦合特性研究方法，申请号：202011238945.9，申请日期,2020.11.09. 
-7. 李顺才，李松原，李雨晴，胡雨婷，李大权，邵明辉。不同磨损刀具的车削热与多元影响因子的相关性分析方法。申请号：202011425978.4，申请日期,2020.12.09
-
-
-
+2. 李顺才，李大权，等. 一种金属切削多信号的耦合协调分析方法[P]. 中国发明专利：CN202110940949.X，已公开，公开号：CN113671901A，公开时间：2021. 11. 19.
+3. 李顺才，胡雨婷，李大权，邵明辉，陈子耀. 一种基于多特征融合的铣削声压级监测及预测系统和方法[P]。发明专利，申请号：201911153398.1，授权时间：2021.8.25.（已授权）
+4. 李顺才，胡雨婷，李大权，邵明辉，陈子耀，朱亮，邓星. 铣削噪声与铣削振动的监测及其相关性分析系统及方法[P]。发明专利，申请号：201910392532.7，授权时间：2021.6.14.（已授权）
+5. 李顺才，李松原，陈子耀，李大权，邵明辉. 不同磨损刀具车削温度变化与车削振动耦合特性研究方法，申请号：202011238945.9，申请日期,2020.11.09. 
+6. 李顺才，李松原，李雨晴，胡雨婷，李大权，邵明辉. 不同磨损刀具的车削热与多元影响因子的相关性分析方法。申请号：202011425978.4，申请日期,2020.12.09
 
 
 ## 联系方式 
